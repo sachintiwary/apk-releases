@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "downloadUrl": "https://github.com/sachintiwary/apk-releases/releases/download/v1.0.0/studyx-v1.0.0.apk",
+  "releaseNotes": "Initial release of StudyX! Focus timer with Flow and Pomodoro modes. Session tracking with notes. Weekly stats and streak tracking.",
+  "mandatory": false
+}
