@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
-    "buildNumber": 2,
-    "downloadUrl": "https://github.com/sachintiwary/apk-releases/releases/download/v1.0.1/studyx-v1.0.1.apk",
-    "releaseNotes": "Update 1.0.1 is here! 🚀\n\n• New: Share your stats! 📊\n• Improved: Calendar date picker\n• Fixed: Smoother tab navigation\n• Web support added (beta)",
+    "version": "1.0.2",
+    "buildNumber": 3,
+    "downloadUrl": "https://github.com/sachintiwary/apk-releases/releases/download/v1.0.2/studyx-v1.0.2.apk",
+    "releaseNotes": "Update 1.0.2 is here! 🚀\n\n• Fixed: In-app update installation issue 🛠️\n• New: Share your stats! 📊\n• Improved: Calendar date picker",
     "mandatory": false
 }
